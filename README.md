@@ -1,6 +1,6 @@
 # binAT
 
-## How to use it
+## Usage
 
 ```
 sudo bash install_env.sh
