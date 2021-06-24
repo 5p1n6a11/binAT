@@ -8,15 +8,7 @@ sudo bash install_env.sh
 
 ## env
 
-### checksec
 
-https://github.com/slimm609/checksec.sh
-
-#### Installation
-
-```
-git clone https://github.com/slimm609/checksec.sh
-```
 
 ### pwntools
 
