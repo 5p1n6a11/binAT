@@ -1,4 +1,3 @@
-# LIEF
+### LIEF
 
-## References
-
+https://github.com/lief-project/LIEF
