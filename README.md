@@ -8,17 +8,6 @@ sudo bash install_env.sh
 
 ## env
 
-### radare2
-
-https://github.com/radareorg/radare2
-
-#### Installation
-
-```
-git clone https://github.com/radare/radare2
-cd radare2
-sys/install.sh   # just run this script to update r2 from git
-```
 ### LIEF
 
 https://github.com/lief-project/LIEF
