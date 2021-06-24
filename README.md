@@ -8,16 +8,6 @@ sudo bash install_env.sh
 
 ## env
 
-### angr
-
-https://github.com/angr/angr
-
-#### Installation
-
-```
-mkvirtualenv --python=$(which python3) angr && python -m pip install angr
-```
-
 ### radare2
 
 https://github.com/radareorg/radare2
