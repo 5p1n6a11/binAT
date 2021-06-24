@@ -8,16 +8,6 @@ sudo bash install_env.sh
 
 ## env
 
-### LIEF
-
-https://github.com/lief-project/LIEF
-
-#### Installation
-
-```
-pip3 install lief
-```
-
 ### checksec
 
 https://github.com/slimm609/checksec.sh
